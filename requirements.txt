@@ -1,0 +1,7 @@
+imutils
+numpy
+dlib
+mtcnn
+torch
+facenet-pytorch
+opencv-python
